@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f2f2f2"
+    >
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@mipmap/girl"
+        android:scaleType="centerCrop"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        />
+
+
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="B"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="D"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="E"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="F"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="G"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="H"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="J"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="K"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="L"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="M"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+    <TextView
+        android:layout_marginBottom="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="N"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        />
+
+
+</LinearLayout>
