@@ -12,8 +12,6 @@ import android.view.View;
 import java.util.ArrayList;
 import java.util.List;
 
-import jp.wasabeef.recyclerview.animators.FadeInLeftAnimator;
-
 /**
  * Author：Cxb on 2016/5/16 10:14
  */
@@ -44,7 +42,7 @@ public class StickyHeaderActivity extends AppCompatActivity {
         recyclerView= (RecyclerView) findViewById(R.id.rv_behavior);
         initData();
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
-        recyclerView.setItemAnimator(new FadeInLeftAnimator());
+       // recyclerView.setItemAnimator(new FadeInLeftAnimator());
         recyclerView.setAdapter(new StickyHeaderAdapter(this,data));
         appbar= (AppBarLayout) findViewById(R.id.appbar);
         appbar.post(new Runnable() {
